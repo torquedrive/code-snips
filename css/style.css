@@ -16,24 +16,20 @@
 
 .container {
     max-width: 100%;
-    /*border: 1px solid red;*/
 }
 
 .content-wrap {
-    /*border: 1px solid #ffa500;*/
     display: flex;
 }
 
 .lftsde {
     max-width: 45%;
-    /*border: 1px solid blue;*/
     position: relative;
     margin: 1.0rem;
 }
 
 .rtsde {
     max-width: 45%;
-    /*border: 1px solid green;*/
     position: relative;
     margin: 1.0rem;
 }
